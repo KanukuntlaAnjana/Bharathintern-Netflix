@@ -14,7 +14,7 @@ body{
 
 .container::before{
     content: "";
-    background: url(ntflx.jpg) no-repeat center center/cover;
+    background: url(https://isquad.tv/wp-content/uploads/2018/08/Netflix-Background.jpg) no-repeat center center/cover;
     position: absolute;
     height: 100%;
     width: 100%;
