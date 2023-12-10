@@ -12,7 +12,7 @@
     <div class="container">
         <nav class="navbar">
             <div class="left">
-                <img src="netflixlogo.png" alt="">
+                <img src="https://www.freepnglogos.com/uploads/netflix-tv-logo-png-9.png" alt="">
             </div>
             <div class="right">
                 <select name="language" class="language">
