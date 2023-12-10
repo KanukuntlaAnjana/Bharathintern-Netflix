@@ -14,7 +14,7 @@ body{
 
 .container::before{
     content: "";
-    background: url(https://external-preview.redd.it/zu8j06qS3STEroYnxTsGLxik0xUM7wVIn1Jsg-3PcHg.jpg?auto=webp&s=a5d03422529231cbd1f8758462bf820dfc11757f) no-repeat center center/cover;
+    background: url(C:\Users\HP\.vscode\ntflx.jpg) no-repeat center center/cover;
     position: absolute;
     height: 100%;
     width: 140%;
