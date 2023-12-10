@@ -13,7 +13,6 @@
         <nav class="navbar">
             <div class="left">
                 <img src="netflixlogo.png" alt="">
-                /* background-image: url('https://www.pinclipart.com/picdir/big/2-23236_transparent-netflix-logo-2018-clipart.png');*/
             </div>
             <div class="right">
                 <select name="language" class="language">
