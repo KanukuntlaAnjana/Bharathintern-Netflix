@@ -14,7 +14,7 @@ body{
 
 .container::before{
     content: "";
-    background: url(ntflxhomepage.png) no-repeat center center/cover;
+    background: url(https://i.pinimg.com/736x/ac/ef/ff/acefff4ae220957f82325d5b8f6b3024.jpg) no-repeat center center/cover;
     position: absolute;
     height: 100%;
     width: 100%;
