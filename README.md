@@ -11,7 +11,7 @@
     <div class="container">
         <nav class="navbar">
             <div class="left">
-                <img src="https://www.freepnglogos.com/uploads/netflix-tv-logo-png-9.png" alt="">
+                <img src="https://davidblaine.com/wp-content/uploads/2017/04/netflix-logo.png" alt="">
             </div>
             <div class="right">
                 <select name="language" class="language">
